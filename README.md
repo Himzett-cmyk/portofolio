@@ -33,14 +33,14 @@ Simpel, gak neko-neko. Belajar dari dasar dulu.
 | # | Section | Isi |
 |---|---|---|
 | 01 | Hero | Intro singkat, gak lebay |
-| 02 | About | Siswa RPL, SMK TI Garuda Nusantara |
+| 02 | About | Siswa RPL |
 | 03 | Skills | HTML · CSS · JavaScript |
 | 04 | Projects | `coming soon` |
 | 05 | Contact | Link di bawah ↓ |
 
 ## About
 
-Siswa jurusan **RPL** di **SMK TI Garuda Nusantara**. Lagi belajar HTML, CSS, JavaScript — dan bahasa lain nyusul. Gak ada motivasi besar-besaran, ngoding aja kalau lagi mood.
+Siswa jurusan **RPL**  Lagi belajar HTML, CSS, JavaScript — dan bahasa lain nyusul. Gak ada motivasi besar-besaran, ngoding aja kalau lagi mood.
 
 ## Links
 
